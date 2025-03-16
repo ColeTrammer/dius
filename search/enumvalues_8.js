@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['identifierremoved_0',['IdentifierRemoved',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0a62dfb523c11e02cd144e7cd4357fbb0f',1,'dius::posix_error']]],
+  ['illegalbytesequence_1',['IllegalByteSequence',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0a7f361991d6184d505c5e1f3fbb84cf25',1,'dius::posix_error']]],
+  ['illegalinstruction_2',['IllegalInstruction',['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6f4f5c78e350362878889062f2b9294b',1,'dius::IllegalInstruction'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6f4f5c78e350362878889062f2b9294b',1,'dius::IllegalInstruction'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6f4f5c78e350362878889062f2b9294b',1,'dius::IllegalInstruction'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6f4f5c78e350362878889062f2b9294b',1,'dius::IllegalInstruction']]],
+  ['inappropriateiocontroloperation_3',['InappropriateIoControlOperation',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0aec129294fcf2aad94db94079e5256e43',1,'dius::posix_error']]],
+  ['interrupt_4',['Interrupt',['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa1ce92afa20b1c7f6a4e5d0dc73e5c92a',1,'dius::Interrupt'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa1ce92afa20b1c7f6a4e5d0dc73e5c92a',1,'dius::Interrupt'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa1ce92afa20b1c7f6a4e5d0dc73e5c92a',1,'dius::Interrupt'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa1ce92afa20b1c7f6a4e5d0dc73e5c92a',1,'dius::Interrupt']]],
+  ['interrupted_5',['Interrupted',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0a12c37c4278b8c0db6c2f65052569cd80',1,'dius::posix_error']]],
+  ['invalidargument_6',['InvalidArgument',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0a253ca7dd096ee0956cccee4d376cab8b',1,'dius::posix_error']]],
+  ['invalidseek_7',['InvalidSeek',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0af13585b0371cf76f8ca3eb8d80cdb85d',1,'dius::posix_error']]],
+  ['io_8',['IO',['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caacf3882f1c43ab22bff0bd9d82d83251b',1,'dius::IO'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caacf3882f1c43ab22bff0bd9d82d83251b',1,'dius::IO']]],
+  ['io_5furing_5fenter_9',['io_uring_enter',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033a56fd3d74443dd8530a88e9a62f9b6f1f',1,'dius::system']]],
+  ['io_5furing_5fregister_10',['io_uring_register',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033aedb92c8b30983d8ee0343a8d5a1da64d',1,'dius::system']]],
+  ['io_5furing_5fsetup_11',['io_uring_setup',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033a528fd4ff83b106a79261e0df74f3738f',1,'dius::system']]],
+  ['ioctl_12',['ioctl',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033abffb1acbd29195b7fa2e5f8063c2cfb7',1,'dius::system']]],
+  ['ioerror_13',['IoError',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0af05cfcbf5123775f7c73e520a8d861e1',1,'dius::posix_error']]],
+  ['iotimeout_14',['IOTimeout',['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa7c9312ddb73a6db8d4657b1a5788ad5f',1,'dius::IOTimeout'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa7c9312ddb73a6db8d4657b1a5788ad5f',1,'dius::IOTimeout']]],
+  ['isadirectory_15',['IsADirectory',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0ad3e666169a2577f428b65d3138fcbae5',1,'dius::posix_error']]]
+];

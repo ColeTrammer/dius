@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['badaddress_0',['BadAddress',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0ad9db15fdadeab65ae8e055d9967de31d',1,'dius::posix_error']]],
+  ['badfiledescriptor_1',['BadFileDescriptor',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0a458fdaf36add031c1d0b54e6f484f48d',1,'dius::posix_error']]],
+  ['badmessage_2',['BadMessage',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0a0f9752db88f2bd5039095236e8a79917',1,'dius::posix_error']]],
+  ['base_3',['base',['../structdius_1_1linux_1_1RunSender_1_1OperationStateT_1_1Type_1_1Rec2.html#a4aedb6e33ac3d94228be848efd5b5423',1,'dius::linux::RunSender::OperationStateT::Type::Rec2::base() const &amp;-&gt; Rec const &amp;'],['../structdius_1_1linux_1_1RunSender_1_1OperationStateT_1_1Type_1_1Rec2.html#a916b24a206b5c76b60566e651826a29b',1,'dius::linux::RunSender::OperationStateT::Type::Rec2::base() &amp;&amp;-&gt; Rec &amp;&amp;']]],
+  ['base_5ffd_4',['base_fd',['../classdius_1_1linux_1_1AcceptSocket.html#a97a968a5336141b715e6e7791140b431',1,'dius::linux::AcceptSocket']]],
+  ['basicerror_5',['BasicError',['../namespacedi_1_1platform.html#affebcaa79a759f63af20e7abcfda3aae',1,'di::platform']]],
+  ['begin_6',['begin',['../classdius_1_1filesystem_1_1RecursiveDirectoryIterator.html#a29dfa2dc153a265e78e27aa3c70f119a',1,'dius::filesystem::RecursiveDirectoryIterator::begin()'],['../classdius_1_1filesystem_1_1DirectoryIterator.html#a52eae31a7e02559ffe3ca07e6d5b6fb6',1,'dius::filesystem::DirectoryIterator::begin() -&gt; DirectoryIterator'],['../classdius_1_1filesystem_1_1DirectoryIterator.html#a52eae31a7e02559ffe3ca07e6d5b6fb6',1,'dius::filesystem::DirectoryIterator::begin() -&gt; DirectoryIterator']]],
+  ['bind_7',['bind',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033a128477f50347d98ee1213d71f27e8886',1,'dius::system']]],
+  ['bindsender_8',['BindSender',['../structdius_1_1linux_1_1BindSender.html',1,'dius::linux']]],
+  ['block_9',['Block',['../namespacedius_1_1filesystem.html#a490d4776c603766f7a24fd91c4327d86ae1e4c8c9ccd9fc39c391da4bcd093fb2',1,'dius::filesystem::Block'],['../namespacedius_1_1filesystem.html#a479cbfed0afc38fa2dbea45856ee417aae1e4c8c9ccd9fc39c391da4bcd093fb2',1,'dius::filesystem::Block'],['../namespacedius_1_1filesystem.html#a490d4776c603766f7a24fd91c4327d86ae1e4c8c9ccd9fc39c391da4bcd093fb2',1,'dius::filesystem::Block'],['../namespacedius_1_1filesystem.html#a479cbfed0afc38fa2dbea45856ee417aae1e4c8c9ccd9fc39c391da4bcd093fb2',1,'dius::filesystem::Block']]],
+  ['brk_10',['brk',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033a986ae684aad2ffd0bb7257deda7882bf',1,'dius::system']]],
+  ['brokenpipe_11',['BrokenPipe',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0aed8828ea93fd9c174d51975b661f4bd0',1,'dius::posix_error']]],
+  ['buffer_12',['buffer',['../structdius_1_1IoContext_1_1Scheduler_1_1AsyncFile_1_1ReadSomeSender_1_1OperationStateT_1_1Type.html#a436feabfcf8e75e91ebcb5f7f5b66a33',1,'dius::IoContext::Scheduler::AsyncFile::ReadSomeSender::OperationStateT::Type::buffer'],['../structdius_1_1IoContext_1_1Scheduler_1_1AsyncFile_1_1WriteSomeSender_1_1OperationStateT_1_1Type.html#a61fc87bfc30edfde94de713bbba2f2a1',1,'dius::IoContext::Scheduler::AsyncFile::WriteSomeSender::OperationStateT::Type::buffer'],['../structdius_1_1linux_1_1ReadSomeSender.html#abd30aa248f072904f4e7c527fff6f15a',1,'dius::linux::ReadSomeSender::buffer'],['../structdius_1_1linux_1_1WriteSomeSender.html#a02ca2deba636476f98b0f3fa82c2e3dd',1,'dius::linux::WriteSomeSender::buffer']]],
+  ['build_20and_20test_13',['Configure Build and Test',['../md_docs_2pages_2developing.html#autotoc_md26',1,'']]],
+  ['build_20commands_14',['Build Commands',['../md_docs_2pages_2build.html#autotoc_md14',1,'Manual Build Commands'],['../md_docs_2pages_2build.html#autotoc_md20',1,'Manual Build Commands']]],
+  ['build_2emd_15',['build.md',['../build_8md.html',1,'']]],
+  ['building_16',['Building',['../md_docs_2pages_2build.html',1,'Building'],['../index.html#autotoc_md4',1,'Building']]],
+  ['building_20with_20cmake_17',['Building with CMake',['../md_docs_2pages_2build.html#autotoc_md10',1,'']]],
+  ['building_20with_20nix_18',['Building with nix',['../md_docs_2pages_2build.html#autotoc_md17',1,'']]],
+  ['bus_19',['Bus',['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6e4b38bfd57741ac1597c440a1c98074',1,'dius::Bus'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6e4b38bfd57741ac1597c440a1c98074',1,'dius::Bus'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6e4b38bfd57741ac1597c440a1c98074',1,'dius::Bus'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa6e4b38bfd57741ac1597c440a1c98074',1,'dius::Bus']]]
+];

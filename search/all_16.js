@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['wait_0',['wait',['../classdius_1_1system_1_1ProcessHandle.html#a034b3db2350ec252c399f0c3ad4ea570',1,'dius::system::ProcessHandle::wait()'],['../classdius_1_1ConditionVariable.html#a837d22ee5c89d318c59312ed08f8304e',1,'dius::ConditionVariable::wait(di::UniqueLock&lt; dius::Mutex &gt; &amp;lock)'],['../classdius_1_1ConditionVariable.html#af8c86ab329d646d35631736a34dbf4ac',1,'dius::ConditionVariable::wait(di::UniqueLock&lt; dius::Mutex &gt; &amp;lock, Pred predicate)']]],
+  ['wait4_1',['wait4',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033a4cbc7380cdf7af107cd8c4378c3c0a63',1,'dius::system']]],
+  ['wait_5ffor_5fsignal_2',['wait_for_signal',['../namespacedius_1_1system.html#aef55df4262d165717a2540f63c73fc5a',1,'dius::system']]],
+  ['windowchange_3',['WindowChange',['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa58eb93ce0cf46ad072aeb5e50f89ce31',1,'dius::WindowChange'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa58eb93ce0cf46ad072aeb5e50f89ce31',1,'dius::WindowChange'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa58eb93ce0cf46ad072aeb5e50f89ce31',1,'dius::WindowChange'],['../namespacedius.html#ae89671f1ed051a9e64710fb7703f42caa58eb93ce0cf46ad072aeb5e50f89ce31',1,'dius::WindowChange']]],
+  ['windowsize_4',['WindowSize',['../structdius_1_1tty_1_1WindowSize.html',1,'dius::tty']]],
+  ['with_20cmake_5',['Building with CMake',['../md_docs_2pages_2build.html#autotoc_md10',1,'']]],
+  ['with_20nix_6',['Building with nix',['../md_docs_2pages_2build.html#autotoc_md17',1,'']]],
+  ['with_5fcontrolling_5ftty_7',['with_controlling_tty',['../classdius_1_1system_1_1Process.html#a64a05e5a0b15c975785446047db9c6b7',1,'dius::system::Process']]],
+  ['with_5fenv_8',['with_env',['../classdius_1_1system_1_1Process.html#a12e8f4ff6f1ed20accb59b1438076cba',1,'dius::system::Process']]],
+  ['with_5ffile_5fclose_9',['with_file_close',['../classdius_1_1system_1_1Process.html#a20f067f3d056a44fe121a20fbad40440',1,'dius::system::Process']]],
+  ['with_5ffile_5fdup_10',['with_file_dup',['../classdius_1_1system_1_1Process.html#a0430775f2506539b98436812c26fa07a',1,'dius::system::Process']]],
+  ['with_5ffile_5fopen_11',['with_file_open',['../classdius_1_1system_1_1Process.html#a8a79c33dd8752d0d27ac093b6f8267bc',1,'dius::system::Process']]],
+  ['with_5fnew_5fsession_12',['with_new_session',['../classdius_1_1system_1_1Process.html#ad93a3f52d49e05287658883ee04fa456',1,'dius::system::Process']]],
+  ['with_5ftty_5fwindow_5fsize_13',['with_tty_window_size',['../classdius_1_1system_1_1Process.html#acd0194a889a38a83e053c8e8accf197c',1,'dius::system::Process']]],
+  ['write_14',['Write',['../namespacedius_1_1net.html#a9cd38b2d7ed0920d6fd14699b564d1d9a1129c0e4d43f2d121652a7302712cff6',1,'dius::net']]],
+  ['write_15',['write',['../namespacedius_1_1system.html#a67c5940f7777d292fbf291d33b84b033aefb2a684e4afb7d55e6147fbe5a332ee',1,'dius::system']]],
+  ['write_5fexactly_16',['write_exactly',['../classdius_1_1SyncFile.html#ad6b994cfefbb84f887efce2d0cc81097',1,'dius::SyncFile::write_exactly(u64 offset, di::Span&lt; di::Byte const &gt;) const -&gt; di::Expected&lt; void, di::GenericCode &gt;'],['../classdius_1_1SyncFile.html#a29499487be14f3d66b12750b502bcfcb',1,'dius::SyncFile::write_exactly(di::Span&lt; di::Byte const &gt;) const -&gt; di::Expected&lt; void, di::GenericCode &gt;']]],
+  ['write_5fsome_17',['write_some',['../classdius_1_1SyncFile.html#ae7450c94224516d9f2cd8c2c877f3f60',1,'dius::SyncFile::write_some(u64 offset, di::Span&lt; di::Byte const &gt;) const -&gt; di::Expected&lt; size_t, di::GenericCode &gt;'],['../classdius_1_1SyncFile.html#a27a05a52fef5c9738eda517311bb5c3b',1,'dius::SyncFile::write_some(di::Span&lt; di::Byte const &gt;) const -&gt; di::Expected&lt; size_t, di::GenericCode &gt;']]],
+  ['writeclobber_18',['WriteClobber',['../namespacedius.html#adf979b179262c6cd4b0519e04a9bda9da7602ea80a14073838e8f5f025c309c33',1,'dius']]],
+  ['writenew_19',['WriteNew',['../namespacedius.html#adf979b179262c6cd4b0519e04a9bda9da43a3654dd6c20254b4f28d803f933c5f',1,'dius']]],
+  ['writesomesender_20',['WriteSomeSender',['../structdius_1_1linux_1_1WriteSomeSender.html',1,'dius::linux']]],
+  ['wrongprotocoltype_21',['WrongProtocolType',['../namespacedius_1_1posix__error.html#a95c09a3e904d600324fb31b44bd151b0ab08da3ac916e60b73676e5400e151aee',1,'dius::posix_error']]]
+];

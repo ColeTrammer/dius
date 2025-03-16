@@ -1,0 +1,28 @@
+var syscalls_8h =
+[
+    [ "dius::syscalls::Result", "namespacedius_1_1syscalls.html#ad7746348f1b6c446f6cc48e41ff7b9f8", null ],
+    [ "dius::syscalls::sys_clock_nanosleep", "namespacedius_1_1syscalls.html#adbedbdf81586c85a536b887ff5e76460", null ],
+    [ "dius::syscalls::sys_close", "namespacedius_1_1syscalls.html#a1970ac57230e82f71fa9ac96c04400f0", null ],
+    [ "dius::syscalls::sys_dup2", "namespacedius_1_1syscalls.html#af0802c37239a5234bacfd640a9a85556", null ],
+    [ "dius::syscalls::sys_execve", "namespacedius_1_1syscalls.html#a92af33d748ca07ee81278c9669d9f1dc", null ],
+    [ "dius::syscalls::sys_fork", "namespacedius_1_1syscalls.html#a0c7820071c5522426b12fefddaa7f9fd", null ],
+    [ "dius::syscalls::sys_ftruncate", "namespacedius_1_1syscalls.html#adbf321a024a9db743b1c2e9b0303fe7b", null ],
+    [ "dius::syscalls::sys_grantpt", "namespacedius_1_1syscalls.html#ad9a37bfe57220a1fd86c2968d57f24ec", null ],
+    [ "dius::syscalls::sys_ioctl", "namespacedius_1_1syscalls.html#a3b0fbcdbf8c84e4b3226ea9b106ffc98", null ],
+    [ "dius::syscalls::sys_lstat", "namespacedius_1_1syscalls.html#a498e8cfe76b5ab04e988e04a09f76641", null ],
+    [ "dius::syscalls::sys_mkdir", "namespacedius_1_1syscalls.html#a108eeb80863c949fdc58e6354914f182", null ],
+    [ "dius::syscalls::sys_mknod", "namespacedius_1_1syscalls.html#aaa9053ae8df5667e4002d0ac9c6a1e02", null ],
+    [ "dius::syscalls::sys_mmap", "namespacedius_1_1syscalls.html#a4aa7f16f45add58ce249ac0d11c38e09", null ],
+    [ "dius::syscalls::sys_munmap", "namespacedius_1_1syscalls.html#a0986cc61f42ce56688991094744c6a84", null ],
+    [ "dius::syscalls::sys_open", "namespacedius_1_1syscalls.html#a1790ed9fbb26a4c7c70e2b31282ccad4", null ],
+    [ "dius::syscalls::sys_pread", "namespacedius_1_1syscalls.html#a8ef6aab2c690f7b4600f3e950d2aeac5", null ],
+    [ "dius::syscalls::sys_ptsname", "namespacedius_1_1syscalls.html#af6cc7072adb52c313b153200c7ae9ee9", null ],
+    [ "dius::syscalls::sys_pwrite", "namespacedius_1_1syscalls.html#a2e5508424f9a3b54cae019910d5b2c84", null ],
+    [ "dius::syscalls::sys_read", "namespacedius_1_1syscalls.html#abc1b3bc6f6d7967ca827dcdec0c63b40", null ],
+    [ "dius::syscalls::sys_setsid", "namespacedius_1_1syscalls.html#a576055eb3ee9583b524c64a2ff93a8c7", null ],
+    [ "dius::syscalls::sys_stat", "namespacedius_1_1syscalls.html#afd4420e0f2513f9e42587764144c1fec", null ],
+    [ "dius::syscalls::sys_tcgetattr", "namespacedius_1_1syscalls.html#aa17b2dd5ee51b246797bcddd65fa6d2f", null ],
+    [ "dius::syscalls::sys_tcsetattr", "namespacedius_1_1syscalls.html#a0b51fe5fe8e109dcc541c6d295444f43", null ],
+    [ "dius::syscalls::sys_unlockpt", "namespacedius_1_1syscalls.html#a62e15e38d8b454819e942797c5ffb60b", null ],
+    [ "dius::syscalls::sys_write", "namespacedius_1_1syscalls.html#a13255909cf6dc16f805e47ae5e4baef4", null ]
+];
